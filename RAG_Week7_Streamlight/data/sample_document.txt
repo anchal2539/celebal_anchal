@@ -1,0 +1,56 @@
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the field of computer science focused on building systems
+that can perform tasks which normally require human intelligence. These tasks include
+learning, reasoning, problem-solving, perception, and language understanding.
+
+History of AI
+The term "Artificial Intelligence" was coined in 1956 at the Dartmouth Conference, where
+researchers first gathered to discuss the possibility of machines that could think. Early
+AI research focused on symbolic reasoning and rule-based systems. In the 1980s, expert
+systems became popular, using large sets of hand-crafted rules to mimic human decision
+making in narrow domains.
+
+Machine Learning
+Machine Learning (ML) is a subset of AI that allows systems to learn patterns from data
+rather than being explicitly programmed with rules. Instead of hand-coding logic, ML
+algorithms are trained on examples and improve their performance as more data becomes
+available. Common types of machine learning include supervised learning, unsupervised
+learning, and reinforcement learning.
+
+Deep Learning
+Deep Learning is a further subset of machine learning based on artificial neural networks
+with many layers. These networks are capable of automatically learning hierarchical
+representations of data, which has led to major breakthroughs in image recognition,
+speech recognition, and natural language processing. Deep learning became especially
+prominent after 2012, when neural networks began outperforming traditional methods on
+large benchmark datasets.
+
+Natural Language Processing
+Natural Language Processing (NLP) is the branch of AI concerned with enabling computers
+to understand, interpret, and generate human language. NLP powers applications such as
+machine translation, chatbots, sentiment analysis, and search engines. Modern NLP relies
+heavily on transformer-based architectures, which were introduced in 2017 and now form
+the foundation of large language models.
+
+Retrieval-Augmented Generation
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval
+with text generation. Instead of relying only on knowledge stored inside a language
+model's parameters, a RAG system first retrieves relevant passages from an external
+knowledge source, such as a document collection, and then uses that retrieved content
+as context for generating an answer. This approach improves factual accuracy and allows
+question answering over private or domain-specific data that the language model was
+never trained on.
+
+Applications of AI
+AI is used across many industries today, including healthcare for diagnosing diseases,
+finance for fraud detection, transportation for self-driving vehicles, and customer
+service for chatbots and virtual assistants. As AI systems become more capable, questions
+around ethics, bias, transparency, and safety have become increasingly important topics
+of research and public discussion.
+
+Challenges in AI
+Despite rapid progress, AI systems still face challenges such as lack of common sense
+reasoning, difficulty generalizing outside their training data, high computational costs,
+and the risk of amplifying biases present in training data. Researchers continue to work
+on making AI systems more robust, interpretable, and aligned with human values.
